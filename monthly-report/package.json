@@ -1,0 +1,7 @@
+{
+  "name": "monthly-report",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Florian Mold",
+  "license": "MIT"
+}
