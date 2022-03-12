@@ -1,0 +1,7 @@
+{
+  "lambda": {
+    "role": "monthly-report-executor",
+    "name": "monthly-report",
+    "region": "eu-central-1"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "lambda": {
+    "role": "transactions-executor",
+    "name": "transactions",
+    "region": "eu-central-1"
+  }
+}

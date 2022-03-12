@@ -1,0 +1,7 @@
+{
+  "lambda": {
+    "role": "customers-executor",
+    "name": "customers",
+    "region": "eu-central-1"
+  }
+}
