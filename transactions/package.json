@@ -3,5 +3,8 @@
   "version": "1.0.0",
   "main": "index.js",
   "author": "Florian Mold",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "claudia": "^5.14.0"
+  }
 }
