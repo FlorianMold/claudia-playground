@@ -3,5 +3,9 @@
     "role": "customers-executor",
     "name": "customers",
     "region": "eu-central-1"
+  },
+  "api": {
+    "id": "3f9r4wfb01",
+    "module": "customer"
   }
 }

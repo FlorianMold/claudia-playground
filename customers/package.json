@@ -1,10 +1,21 @@
 {
   "name": "customers",
   "version": "1.0.0",
-  "main": "index.js",
-  "author": "Florian Mold",
+  "main": "customer.js",
+  "author": "Florian Mold <florian.mold@live.at>",
   "license": "MIT",
+  "scripts": {
+    "deploy-aws": "claudia create --region eu-central-1 --api-module customer --policies policy",
+    "update-aws": "claudia update",
+    "release-aws": "claudia set-version --version production",
+    "options": "ntl"
+  },
   "devDependencies": {
-    "claudia": "^5.14.0"
+    "claudia": "^5.14.0",
+    "ntl": "^5.1.0"
+  },
+  "dependencies": {
+    "aws-sdk": "^2.1092.0",
+    "claudia-api-builder": "^4.1.2"
   }
 }
