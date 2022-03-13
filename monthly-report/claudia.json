@@ -3,5 +3,9 @@
     "role": "monthly-report-executor",
     "name": "monthly-report",
     "region": "eu-central-1"
+  },
+  "api": {
+    "id": "qbaesz83wd",
+    "module": "monthly-report"
   }
 }
