@@ -3,5 +3,9 @@
     "role": "transactions-executor",
     "name": "transactions",
     "region": "eu-central-1"
+  },
+  "api": {
+    "id": "dkxj452gl7",
+    "module": "transactions"
   }
 }
